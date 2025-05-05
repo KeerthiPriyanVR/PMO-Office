@@ -1,0 +1,101 @@
+sr.no,date,Device ID / Instrument ID,Date of Data backup & Start time,Date of Data backup & End time,Due date of backup,Backup location,Data Size,status
+1,2024-09-06,Device_3898,2024-09-06 15:37,2024-09-06 16:37,2024-09-17,Location A,6.91 GB,Pending for data backup
+2,2024-03-16,Device_3550,2024-03-17 00:33,2024-03-17 05:33,2024-04-12,Location C,34.65 GB,Pending for data backup
+3,2024-05-01,Device_7767,2024-05-02 03:22,2024-05-02 04:22,2024-05-10,Location A,70.06 GB,Pending for data backup
+4,2024-06-10,Device_9179,2024-06-11 11:31,2024-06-11 12:31,2024-07-05,Location B,63.91 GB,Backup completed
+5,2024-05-09,Device_5567,2024-05-09 16:00,2024-05-09 21:00,2024-06-06,Location C,36.19 GB,Pending for data backup
+6,2024-06-12,Device_4801,2024-06-13 13:59,2024-06-13 15:59,2024-07-11,Location C,53.10 GB,Pending for data backup
+7,2025-01-09,Device_5148,2025-01-09 14:55,2025-01-09 18:55,2025-01-27,Location B,38.10 GB,Backup completed
+8,2024-01-25,Device_8715,2024-01-26 13:18,2024-01-26 18:18,2024-01-29,Location B,88.75 GB,Pending for data backup
+9,2025-01-14,Device_2725,2025-01-15 00:50,2025-01-15 04:50,2025-01-21,Location B,75.07 GB,Backup completed
+10,2024-07-01,Device_9502,2024-07-01 17:20,2024-07-01 18:20,2024-07-07,Location B,3.68 GB,Pending for data backup
+11,2024-03-13,Device_1651,2024-03-14 11:01,2024-03-14 12:01,2024-04-05,Location C,65.51 GB,Pending for data backup
+12,2024-07-07,Device_6215,2024-07-08 00:17,2024-07-08 01:17,2024-08-06,Location B,29.88 GB,Pending for data backup
+13,2024-12-19,Device_4226,2024-12-19 22:25,2024-12-20 03:25,2025-01-02,Location C,62.07 GB,Pending for data backup
+14,2024-01-29,Device_7785,2024-01-29 22:39,2024-01-30 03:39,2024-02-24,Location C,17.65 GB,Pending for data backup
+15,2024-11-30,Device_4589,2024-11-30 20:11,2024-11-30 22:11,2024-12-13,Location C,28.78 GB,Pending for data backup
+16,2024-09-02,Device_3392,2024-09-03 02:02,2024-09-03 04:02,2024-09-30,Location B,90.32 GB,Backup completed
+17,2024-01-27,Device_2701,2024-01-28 02:36,2024-01-28 07:36,2024-02-03,Location A,77.53 GB,Pending for data backup
+18,2024-08-21,Device_3820,2024-08-21 14:13,2024-08-21 18:13,2024-09-07,Location C,47.03 GB,Pending for data backup
+19,2024-11-11,Device_7406,2024-11-12 04:01,2024-11-12 07:01,2024-11-16,Location C,37.20 GB,Backup completed
+20,2024-07-17,Device_1912,2024-07-18 12:18,2024-07-18 16:18,2024-08-08,Location A,51.44 GB,Pending for data backup
+21,2024-05-08,Device_9008,2024-05-09 11:09,2024-05-09 14:09,2024-06-02,Location B,38.25 GB,Backup completed
+22,2024-07-03,Device_3781,2024-07-04 04:26,2024-07-04 09:26,2024-07-11,Location B,88.50 GB,Pending for data backup
+23,2024-09-22,Device_2128,2024-09-22 17:37,2024-09-22 18:37,2024-10-09,Location C,9.34 GB,Pending for data backup
+24,2024-02-04,Device_1316,2024-02-04 16:31,2024-02-04 19:31,2024-02-07,Location B,2.30 GB,Backup completed
+25,2024-06-13,Device_7284,2024-06-13 22:45,2024-06-13 23:45,2024-07-11,Location B,43.09 GB,Backup completed
+26,2024-08-23,Device_2716,2024-08-24 00:28,2024-08-24 05:28,2024-08-30,Location C,75.38 GB,Pending for data backup
+27,2025-01-18,Device_1305,2025-01-19 05:52,2025-01-19 10:52,2025-01-30,Location C,16.22 GB,Pending for data backup
+28,2024-06-02,Device_9892,2024-06-03 03:07,2024-06-03 08:07,2024-06-07,Location C,23.61 GB,Backup completed
+29,2024-11-11,Device_4046,2024-11-12 12:19,2024-11-12 16:19,2024-11-17,Location A,95.08 GB,Pending for data backup
+30,2024-08-30,Device_2852,2024-08-31 02:29,2024-08-31 03:29,2024-09-04,Location C,48.06 GB,Pending for data backup
+31,2025-01-19,Device_3314,2025-01-19 22:52,2025-01-20 02:52,2025-01-24,Location B,60.29 GB,Pending for data backup
+32,2024-11-29,Device_4338,2024-11-30 01:57,2024-11-30 03:57,2024-12-02,Location A,97.43 GB,Backup completed
+33,2024-03-25,Device_2644,2024-03-25 15:07,2024-03-25 16:07,2024-03-27,Location B,32.39 GB,Backup completed
+34,2024-07-11,Device_9815,2024-07-12 02:10,2024-07-12 05:10,2024-08-04,Location B,41.03 GB,Backup completed
+35,2024-09-07,Device_6466,2024-09-08 12:15,2024-09-08 14:15,2024-09-21,Location A,35.44 GB,Backup completed
+36,2024-08-14,Device_2868,2024-08-14 17:48,2024-08-14 18:48,2024-08-22,Location A,95.33 GB,Backup completed
+37,2024-03-02,Device_6167,2024-03-03 02:39,2024-03-03 07:39,2024-03-13,Location A,95.36 GB,Backup completed
+38,2024-03-21,Device_3130,2024-03-22 10:34,2024-03-22 14:34,2024-03-31,Location A,6.30 GB,Pending for data backup
+39,2024-09-25,Device_6612,2024-09-26 07:14,2024-09-26 12:14,2024-10-23,Location B,33.12 GB,Pending for data backup
+40,2024-08-09,Device_5487,2024-08-10 08:00,2024-08-10 12:00,2024-09-02,Location A,99.48 GB,Pending for data backup
+41,2024-02-14,Device_9524,2024-02-15 06:12,2024-02-15 07:12,2024-03-15,Location C,40.43 GB,Pending for data backup
+42,2024-07-01,Device_7265,2024-07-02 08:43,2024-07-02 12:43,2024-07-02,Location C,72.82 GB,Backup completed
+43,2024-08-31,Device_1107,2024-09-01 05:50,2024-09-01 09:50,2024-09-15,Location B,20.03 GB,Pending for data backup
+44,2024-07-24,Device_6879,2024-07-25 12:21,2024-07-25 15:21,2024-08-09,Location A,47.73 GB,Pending for data backup
+45,2025-01-01,Device_4902,2025-01-02 00:18,2025-01-02 01:18,2025-01-16,Location B,20.75 GB,Backup completed
+46,2024-04-16,Device_8958,2024-04-17 08:21,2024-04-17 09:21,2024-04-19,Location B,29.54 GB,Backup completed
+47,2024-11-18,Device_4393,2024-11-19 00:15,2024-11-19 05:15,2024-12-03,Location B,37.08 GB,Pending for data backup
+48,2024-03-03,Device_1605,2024-03-03 18:12,2024-03-03 19:12,2024-03-30,Location A,88.17 GB,Pending for data backup
+49,2024-02-07,Device_5647,2024-02-07 19:13,2024-02-07 20:13,2024-02-13,Location A,1.69 GB,Backup completed
+50,2024-05-16,Device_2024,2024-05-16 14:42,2024-05-16 17:42,2024-06-05,Location A,38.86 GB,Backup completed
+51,2024-09-03,Device_8218,2024-09-04 02:32,2024-09-04 07:32,2024-09-12,Location B,99.24 GB,Backup completed
+52,2024-03-30,Device_4983,2024-03-31 13:13,2024-03-31 15:13,2024-04-04,Location B,34.99 GB,Backup completed
+53,2024-06-06,Device_2544,2024-06-07 12:18,2024-06-07 14:18,2024-06-20,Location B,31.08 GB,Backup completed
+54,2024-07-01,Device_3983,2024-07-02 11:42,2024-07-02 16:42,2024-07-20,Location B,73.14 GB,Backup completed
+55,2024-07-19,Device_9200,2024-07-20 09:41,2024-07-20 13:41,2024-08-03,Location A,60.10 GB,Backup completed
+56,2024-04-01,Device_8678,2024-04-02 09:08,2024-04-02 12:08,2024-04-08,Location A,80.86 GB,Pending for data backup
+57,2024-12-02,Device_3028,2024-12-02 23:36,2024-12-03 02:36,2024-12-29,Location C,78.25 GB,Pending for data backup
+58,2024-08-09,Device_6788,2024-08-10 02:57,2024-08-10 04:57,2024-08-10,Location A,8.10 GB,Pending for data backup
+59,2024-02-20,Device_2632,2024-02-21 00:03,2024-02-21 03:03,2024-03-04,Location B,40.22 GB,Backup completed
+60,2024-06-15,Device_2014,2024-06-15 23:53,2024-06-16 03:53,2024-07-10,Location A,82.69 GB,Backup completed
+61,2025-01-03,Device_5631,2025-01-04 00:37,2025-01-04 05:37,2025-01-22,Location A,17.30 GB,Pending for data backup
+62,2024-05-30,Device_8221,2024-05-31 04:16,2024-05-31 06:16,2024-06-12,Location A,3.31 GB,Backup completed
+63,2024-09-16,Device_4469,2024-09-16 16:52,2024-09-16 18:52,2024-09-17,Location C,85.67 GB,Backup completed
+64,2024-03-29,Device_4841,2024-03-29 17:52,2024-03-29 21:52,2024-04-18,Location C,25.02 GB,Backup completed
+65,2024-04-12,Device_9621,2024-04-13 08:55,2024-04-13 11:55,2024-04-15,Location A,15.04 GB,Pending for data backup
+66,2024-08-10,Device_3998,2024-08-11 05:01,2024-08-11 07:01,2024-08-18,Location A,75.69 GB,Backup completed
+67,2024-03-02,Device_2508,2024-03-02 22:21,2024-03-03 03:21,2024-03-17,Location A,58.49 GB,Pending for data backup
+68,2024-12-02,Device_7098,2024-12-03 12:51,2024-12-03 16:51,2024-12-27,Location B,34.22 GB,Backup completed
+69,2024-06-21,Device_5225,2024-06-22 13:19,2024-06-22 14:19,2024-07-03,Location C,34.36 GB,Pending for data backup
+70,2024-03-07,Device_7218,2024-03-08 07:25,2024-03-08 09:25,2024-03-15,Location C,44.92 GB,Backup completed
+71,2024-08-29,Device_2448,2024-08-30 07:25,2024-08-30 08:25,2024-09-05,Location A,47.42 GB,Backup completed
+72,2024-12-23,Device_4666,2024-12-23 21:06,2024-12-24 02:06,2025-01-17,Location A,13.74 GB,Backup completed
+73,2024-07-26,Device_5395,2024-07-27 09:51,2024-07-27 13:51,2024-08-20,Location A,19.50 GB,Backup completed
+74,2024-06-30,Device_2514,2024-07-01 05:47,2024-07-01 08:47,2024-07-15,Location C,83.18 GB,Backup completed
+75,2024-04-13,Device_5409,2024-04-14 08:44,2024-04-14 10:44,2024-04-24,Location C,71.07 GB,Backup completed
+76,2024-12-26,Device_4264,2024-12-26 20:19,2024-12-27 00:19,2025-01-23,Location C,69.45 GB,Pending for data backup
+77,2024-12-19,Device_5895,2024-12-19 17:07,2024-12-19 22:07,2024-12-22,Location A,71.00 GB,Pending for data backup
+78,2024-06-28,Device_6232,2024-06-28 14:44,2024-06-28 17:44,2024-07-17,Location B,64.14 GB,Pending for data backup
+79,2024-11-19,Device_6397,2024-11-19 18:03,2024-11-19 23:03,2024-11-30,Location C,97.66 GB,Backup completed
+80,2024-08-10,Device_6092,2024-08-10 23:29,2024-08-11 02:29,2024-08-20,Location B,27.02 GB,Pending for data backup
+81,2024-07-16,Device_6489,2024-07-16 23:36,2024-07-17 02:36,2024-07-30,Location C,56.15 GB,Pending for data backup
+82,2024-07-04,Device_1587,2024-07-05 11:35,2024-07-05 12:35,2024-07-15,Location B,89.40 GB,Backup completed
+83,2024-06-20,Device_8039,2024-06-21 04:56,2024-06-21 06:56,2024-07-07,Location B,68.32 GB,Backup completed
+84,2024-04-08,Device_1967,2024-04-08 17:38,2024-04-08 19:38,2024-04-12,Location B,50.96 GB,Backup completed
+85,2024-01-29,Device_6449,2024-01-30 06:19,2024-01-30 07:19,2024-02-18,Location B,12.88 GB,Backup completed
+86,2024-06-02,Device_3034,2024-06-03 05:24,2024-06-03 09:24,2024-06-27,Location B,22.77 GB,Pending for data backup
+87,2024-05-07,Device_4304,2024-05-08 14:02,2024-05-08 18:02,2024-05-16,Location A,77.87 GB,Backup completed
+88,2024-09-03,Device_3637,2024-09-03 18:53,2024-09-03 20:53,2024-09-07,Location C,1.38 GB,Pending for data backup
+89,2024-10-12,Device_5826,2024-10-13 09:16,2024-10-13 12:16,2024-10-29,Location C,38.78 GB,Backup completed
+90,2024-12-07,Device_2960,2024-12-08 13:47,2024-12-08 17:47,2024-12-20,Location C,22.16 GB,Pending for data backup
+91,2024-10-20,Device_6679,2024-10-20 16:10,2024-10-20 19:10,2024-11-10,Location C,3.01 GB,Backup completed
+92,2024-07-14,Device_3669,2024-07-15 10:54,2024-07-15 14:54,2024-07-24,Location A,32.40 GB,Pending for data backup
+93,2024-02-02,Device_8590,2024-02-02 14:56,2024-02-02 15:56,2024-02-09,Location B,78.59 GB,Backup completed
+94,2024-03-30,Device_1914,2024-03-31 00:53,2024-03-31 03:53,2024-04-02,Location B,62.84 GB,Pending for data backup
+95,2024-02-04,Device_3885,2024-02-05 03:19,2024-02-05 04:19,2024-02-08,Location A,92.51 GB,Pending for data backup
+96,2024-11-27,Device_4908,2024-11-27 14:48,2024-11-27 17:48,2024-12-03,Location A,99.63 GB,Pending for data backup
+97,2024-09-16,Device_6800,2024-09-16 15:51,2024-09-16 20:51,2024-09-20,Location B,86.19 GB,Pending for data backup
+98,2024-12-08,Device_5317,2024-12-08 23:41,2024-12-09 01:41,2025-01-02,Location B,84.38 GB,Backup completed
+99,2024-11-23,Device_9392,2024-11-24 02:18,2024-11-24 07:18,2024-11-28,Location C,65.67 GB,Backup completed
+100,2024-09-25,Device_8384,2024-09-26 00:52,2024-09-26 01:52,2024-10-10,Location C,80.84 GB,Pending for data backup
